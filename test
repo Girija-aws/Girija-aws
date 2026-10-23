@@ -1,3 +1,7 @@
 This is sample data
 
+<<<<<<< HEAD
 This edit is from local
+=======
+This edit is from github
+>>>>>>> ab14fd7f7f9352bcf19d74b5843c818b2e7bc871
